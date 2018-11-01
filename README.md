@@ -26,4 +26,4 @@
 [Releases](https://github.com/SUSTC-XLAB/Battery//releases)
  
 ### 参考资料 ###
-[参见](https://github.com/SUSTC-XLAB/Battery//wiki)
+[参见](https://github.com/SUSTC-XLAB/Battery/wiki/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99URL)
