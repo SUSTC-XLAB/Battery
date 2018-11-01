@@ -14,6 +14,9 @@
 [NKXLAB](https://github.com/NKXLAB)
     [南方科技大学-XLAB]QQ群：532614505
     
+### 背景资料 ###
+（刘一鸣）
+
 ### Change log ###
 
 [Releases](https://github.com/SUSTC-XLAB/Battery//releases)
