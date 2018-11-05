@@ -1,4 +1,5 @@
 ## 项目名称:BMS With High Performance And Stability
+   <Br/> BMS-电池管理系统介绍( [Click Me!](https://github.com/SUSTC-XLAB/Battery/wiki/电池管理系统%EF%BC%88BMS%EF%BC%89介绍) )
 ## 项目简介
    <Br/> 本计划致力于开发出一套完善的BMS以及与之配套的可靠的电池组。
    <Br/> 主功能：实时监测电池的峰值电压；电池容量；充电电流；放电电流，电池温度；单元损坏监控。
